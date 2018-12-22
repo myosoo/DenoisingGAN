@@ -20,3 +20,7 @@ Extract the CKPT files to a folder named 'Checkpoints'
 Run main.py -- python3 main.py
 
 Go to the browser, if you are running it on a server then [ip-address]:8888, if you are on your local machine then localhost:8888
+
+## Source Code
+
+https://github.com/manumathewthomas/ImageDenoisingGAN
